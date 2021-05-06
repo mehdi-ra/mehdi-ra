@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome to my GitHub page
+Hello every one.
+This is my first writing on GitHub and therefore I'm so exited.
+**I'm experienced in** : 
+ -  NodeJs.
+ - Javascript
+ - Typescript
+ - API's
+---
+ **Want to learn** :
+ 
+ - More of NodeJs
+ - More of JavaScript & Typescript
+ - More of API's
+ - More of everything
 
-<!--
-**Medira-cy/Medira-cy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
