@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://virgol.io/](https://virgol.io/)
 
-- 💬 Ask me about **NodeJs, NestJs, Backend stuff**
+- 💬 Ask me about **NodeJs, NestJs and Backend stuff ...**
 
 - 📫 How to reach me **mediraworm@gmail.com**
 
