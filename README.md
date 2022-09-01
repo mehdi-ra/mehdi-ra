@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/medira99" target="blank"><img src="https://img.shields.io/twitter/follow/medira99?logo=twitter&style=for-the-badge" alt="medira99" /></a> </p>
 
-- 🔭 I’m currently working on **Ziraxy project**
+- 🔭 I’m currently working on **Ziraxi project**
 
 - 🌱 I’m currently learning **NodeJs, NestJs, MongoDB, PostgresSql, Sercurity and ...**
 
