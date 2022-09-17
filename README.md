@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/me-dira](https://github.com/me-dira)
 
-- 📝 I regularly write articles on [https://virgol.io/](https://virgol.io/)
+- 📝 I regularly write articles on [Virgool](https://virgool.io/@medira)
 
 - 💬 Ask me about **NodeJs, NestJs and Backend stuff ...**
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/medira99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="medira99" height="30" width="40" /></a>
+<a href="https://twitter.com/medira99" target="blank"><img align="center" src="ht tps://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="medira99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehdi-rahimi-67bb90204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi-rahimi-67bb90204" height="30" width="40" /></a>
 <a href="https://instagram.com/me0dira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me0dira" height="30" width="40" /></a>
 </p>
