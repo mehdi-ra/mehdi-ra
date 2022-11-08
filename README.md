@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NodeJs, NestJs, MongoDB, PostgresSql, Sercurity and ...**
 
-- 🤝 I’m looking for help with [wp-scrapper](https://github.com/me-dira/wp-scrapper)
+- 🤝 I’m looking for help with [Zarinpal Adaptor for Nestjs](https://github.com/me-dira/wp-scrapper)
 
 - 👨‍💻 All of my projects are available at [https://github.com/me-dira](https://github.com/me-dira)
 
