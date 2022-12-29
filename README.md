@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=me-dira&theme=onedark" alt="me-dira" /></a> </p>
 
+## Needs help
+Hello dear friends. We need help in gathering barnkrupt or closed companies in  Iran for research goals.
+Please read more information about data and how you can help in [this repository](https://github.com/IranITDefenders/irans-closed-bankrupt-companies)
+
 
 - 🔭 I’m currently working on **Ziraxi project**
 
