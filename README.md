@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on [My very own open Source projects]()
+<!-- - 🔭 I’m currently working on [My very own open Source projects]() -->
 
 - 🌱 I’m currently learning **How to build scaleable applications & DevOps**
 
-- 🤝 I’m looking for help with [Anonymous telegram bot](https://github.com/IranITDefenders/anonymous)
+<!-- - 🤝 I’m looking for help with [Anonymous telegram bot](https://github.com/IranITDefenders/anonymous) -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/me-dira](https://github.com/me-dira)
 
