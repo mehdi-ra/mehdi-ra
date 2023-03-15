@@ -13,9 +13,8 @@
 
 - 💬 Ask me about **NodeJs, Angular, Databases and Javascript/Typescript**
 
-- 📫 How to reach me? Just mail me **(mediraworkm@gmail.com)**
+- 📫 How to reach me? Just mail me **(mehdirahimi.dev@gmail.com)**
 
-- ⚡ Fun fact **I think humans can have unlimited life time in next few years :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
