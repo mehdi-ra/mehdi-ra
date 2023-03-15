@@ -14,6 +14,7 @@
 - 💬 Ask me about **NodeJs, Angular, Databases and Javascript/Typescript**
 
 - 📫 How to reach me? Just mail me **(mehdirahimi.dev@gmail.com)**
+  or book a meeting [here](https://calendly.com/mehdirahimi-dev)
 
 
 <h3 align="left">Connect with me:</h3>
