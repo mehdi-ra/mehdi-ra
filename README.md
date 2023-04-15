@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehdi Rahimi</h1>
-<h3 align="center">a NodeJS Backend Developer, who is trying to become an open source developer.</h3>
+<h3 align="center">a NodeJS Backend Developer, who is trying to become a DevOps Engineer & Open Source Developer.</h3>
 
 
 
