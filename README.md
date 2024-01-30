@@ -7,7 +7,7 @@
 
 <!-- - 🤝 I’m looking for help with [Anonymous telegram bot](https://github.com/IranITDefenders/anonymous) -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/me-dira](https://github.com/mehdi-ra)
+- 👨‍💻 All of my projects are available at [https://github.com/mehdi-ra](https://github.com/mehdi-ra)
 
 - 💬 Ask me about **NodeJs, Angular, Databases and Javascript/Typescript**
 
