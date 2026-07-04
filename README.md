@@ -113,10 +113,6 @@ I'm currently investing most of my time in:
   <img src="https://streak-stats.demolab.com/?user=mehdi-ra&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mehdi-ra&layout=compact&theme=dark" />
-</p>
-
 ---
 
 ## 🦀 Building With Rust
