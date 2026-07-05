@@ -42,7 +42,7 @@ interests:
 ```
 
 * 🔭 Currently building and operating services at **Coral Land**
-* 🌱 Learning **Distributed Systems** and advanced cloud-native architecture
+* 🌱 Learning **Distributed Systems** and cloud-native architecture
 * ⚙️ Passionate about automation, reliability, observability, and platform engineering
 * 🦀 Exploring Rust for infrastructure and Kubernetes tooling
 * 💬 Ask me anything about DevOps, Kubernetes, CI/CD, Monitoring, GitOps, and Infrastructure
@@ -58,7 +58,6 @@ interests:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge\&logo=rancher\&logoColor=white)
 
 ### Observability & Reliability
 
